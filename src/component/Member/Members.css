@@ -1,0 +1,39 @@
+.member-container{
+    text-align: center;
+    padding: 10px;
+
+}
+small{
+    font-size: 15px;
+    font-weight: 400;
+
+}
+.card{
+    padding: 10px;
+    background-color: rgba(92, 167, 190, 0.808);
+    box-shadow: 10px 10px 20px rgb(106, 100, 100);
+    height: 360px;
+    width: 270px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.fas{
+    /* color:grey; */
+    padding: 5px 10px;
+}
+.btn-salary{
+    border:none;
+    border-radius: 10px;
+    background-image: linear-gradient(rgba(42, 42, 179, 0.76),rgba(78, 28, 63, 0.349));
+
+}
+
+.fab{
+    padding: 10px;
+    font-size: 25px;
+}
+

@@ -1,0 +1,8 @@
+.bgColor{
+    /* background-color: rgba(93, 156, 207, 0.609); */
+    background-image: linear-gradient(rgba(21, 224, 231, 0.541),rgba(30, 66, 223, 0.555));
+}
+
+.header{
+    text-align: center;
+}
